@@ -1,0 +1,1 @@
+timestamp,session_id,window_id,esp32_label,esp32_conf,esp32_latency_ms,esp32_success,local_label,local_conf,local_latency_ms,agreed,feature_extraction_ms,normalization_mode

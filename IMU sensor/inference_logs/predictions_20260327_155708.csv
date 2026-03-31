@@ -1,0 +1,6 @@
+timestamp,session_id,window_id,esp32_label,esp32_conf,esp32_latency_ms,esp32_success,local_label,local_conf,local_latency_ms,agreed,feature_extraction_ms,normalization_mode
+2026-03-27T15:58:04.973993,20260327_155708,1,DISABLED,0.0,0.0,False,NO_LOCAL_MODEL,0.0,0.0,,65.9,scaler
+2026-03-27T15:58:06.241628,20260327_155708,2,DISABLED,0.0,0.0,False,NO_LOCAL_MODEL,0.0,0.0,,56.64,scaler
+2026-03-27T15:58:07.531975,20260327_155708,3,DISABLED,0.0,0.0,False,NO_LOCAL_MODEL,0.0,0.0,,62.07,scaler
+2026-03-27T15:58:08.793345,20260327_155708,4,DISABLED,0.0,0.0,False,NO_LOCAL_MODEL,0.0,0.0,,56.98,scaler
+2026-03-27T15:58:10.077521,20260327_155708,5,DISABLED,0.0,0.0,False,NO_LOCAL_MODEL,0.0,0.0,,62.0,scaler
