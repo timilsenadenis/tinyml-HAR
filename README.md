@@ -88,13 +88,6 @@ python train.py --config configs/ema_sweep.yaml
 # (TFLite Micro firmware in esp32/)
 ```
 
-## 🗺️ Roadmap
-
-- [ ] Port optimizer sweep from MLP → 1D CNN pipeline
-- [ ] Add Polyak–Ruppert weight averaging (distinct from EMA smoothing)
-- [ ] Explore β-annealing as a report extension
-
----
 
 <div align="center">
 <sub>Minor Project · Dept. of Electronics & Computer Engineering · 4-member team</sub>
